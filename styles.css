@@ -1,0 +1,63 @@
+@import url("https://fonts.googleapis.com/css2?family=AR+One+Sans:wght@500&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  width: 100%;
+  height: 100vh;
+  /* VIEWPORT HEIGHT YAANI DISPLAY KA SIZE JITNA */
+  display: flex;
+  background-color: black;
+  justify-content: center;
+  align-items: center;
+}
+
+.calculator {
+  border: 1px solid gray;
+  padding: 20px;
+  border-radius: 5px;
+  background: transparent;
+  box-shadow: 0px 3px 15px rgba(113, 115, 119, 0.5);
+}
+
+input {
+  width: 320px;
+  border: none;
+  padding: 24px;
+  margin: 10px;
+  text-align: right;
+  background: transparent;
+  font-size: 40px;
+  cursor: pointer;
+  color: white;
+}
+
+input::placeholder {
+  color: white;
+}
+
+.button {
+  border: none;
+  width: 60px;
+  height: 60px;
+  margin: 10px;
+  border-radius: 50%;
+  background: transparent;
+  cursor: pointer;
+  color: white;
+  box-shadow: -8px -8px 15px rgba(255, 255, 255, 0.1);
+  font-size: 20px;
+  font-family: "AR One Sans", sans-serif;
+}
+
+.operator {
+  color: #66ffb3;
+}
+
+.equalbtn {
+  background-color: orange;
+}

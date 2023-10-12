@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Job Application</title>
+  </head>
+  <body bgcolor="#b7e8c7">
+    <h2 align="center">Job Application Form</h2>
+    <hr />
+    <table width="50%" height="600" align="center">
+      <form
+        enctype="multipart/form-data"
+        action="submitpage.html"
+        target="_blank">
+        <tr>
+          <th>Full Name</th>
+          <td><input type="text" placeholder="Enter your name" size="45" /></td>
+        </tr>
+        <tr>
+          <th>Job Title</th>
+          <td>
+            <input type="text" placeholder="Enter your job title" size="45" />
+          </td>
+        </tr>
+        <tr>
+          <th>Current Company</th>
+          <td>
+            <input
+              type="text"
+              placeholder="Enter your company name"
+              size="45" />
+          </td>
+        </tr>
+        <tr>
+          <th>Contact Number</th>
+          <td>
+            <select name="code" id="cars">
+              <option>+91</option>
+              <option>+92</option>
+              <option>+43</option>
+              <option>+32</option>
+            </select>
+            <input
+              type="text"
+              placeholder="Enter your contact number"
+              size="38" />
+          </td>
+        </tr>
+        <tr>
+          <th>Email</th>
+          <td>
+            <input type="text" placeholder="Enter your email" size="45" />
+          </td>
+        </tr>
+        <tr>
+          <th>Work Status</th>
+          <td>
+            <input type="radio" name="status" />
+            <label for="Full Time" value="Full">Full Time</label>
+            <input type="radio" name="status" value="Part" />
+            <label for="Part Time" value="Part">Part Time</label>
+            <input type="radio" name="status" value="Per" />
+            <label for="Per" value="Per Dim">Per Dim</label>
+            <input type="radio" name="status" value="Others" />
+            <label for="Others" name="Others">Others</label>
+          </td>
+        </tr>
+        <tr>
+          <th>Salary</th>
+          <td>
+            <input type="text" placeholder="Salary" name="Salary" />
+            <select>
+              <option value="Rupees">Rupees</option>
+              <option value="Euro">Euro</option>
+              <option value="US Dollar">US Dollar</option>
+            </select>
+            <select name="time">
+              <option value="Yearly">Yearly</option>
+              <option value="Half Yearly">Half Yearly</option>
+            </select>
+          </td>
+        </tr>
+        <tr>
+          <th>Experience</th>
+          <td>
+            <input
+              type="text"
+              placeholder="Enter your experience in months"
+              size="45" />
+          </td>
+        </tr>
+        <tr>
+          <th>Current Location</th>
+          <td>
+            <input
+              type="text"
+              placeholder="Enter your current location"
+              size="45" />
+          </td>
+        </tr>
+        <tr>
+          <th>Permanent Address</th>
+          <td>
+            <textarea
+              cols="47"
+              rows="4"
+              placeholder="Enter permanent address"
+              name="paddress"></textarea>
+          </td>
+        </tr>
+        <tr>
+          <th>Upload Resume</th>
+          <td><input type="file" name="Choose File" /></td>
+        </tr>
+        <tr align="center">
+          <>
+          <td><input type="submit" value="Submit" /></td>
+          <td><input type="reset" value="Reset" /></td>
+        </tr>
+      </form>
+    </table>
+  </body>
+</html>
