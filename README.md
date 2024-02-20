@@ -1,11 +1,15 @@
 <h1 align="center">Hi 👋, I'm Pushpraj Singh Chauhan</h1>
-<h3 align="center">A passionate frontend and Java developer from India</h3>
+<h3 align="center">A passionate Full Stack Java developer from India</h3>
 
-- 🌱 I’m currently learning **J2E,DSA,Bootstrap**
+- 🌱 I’m currently learning **JEE,DSA,Bootstrap**
 
-- 💬 Ask me about **JSE,HTML,CSS,Git,**
+- 👨‍💻 All of my projects are available at [github.com/PushprajSChauhan/pscportfolio.github.io.git](github.com/PushprajSChauhan/pscportfolio.github.io.git)
+
+- 💬 Ask me about **JSE,HTML,CSS,Git,JS,JDBC**
 
 - 📫 How to reach me **chauhanpushprajsingh003@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/17sPcBdQe6vORo-1kAo-P8uCdMMfbrilm/view?usp=drive_link](https://drive.google.com/file/d/17sPcBdQe6vORo-1kAo-P8uCdMMfbrilm/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
