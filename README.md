@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **chauhanpushprajsingh003@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/17sPcBdQe6vORo-1kAo-P8uCdMMfbrilm/view?usp=drive_link](https://drive.google.com/file/d/17sPcBdQe6vORo-1kAo-P8uCdMMfbrilm/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1HdqEw_Cwirz9oINuL64R0LoP6AKALYFi/view?usp=sharing](https://drive.google.com/file/d/1HdqEw_Cwirz9oINuL64R0LoP6AKALYFi/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
