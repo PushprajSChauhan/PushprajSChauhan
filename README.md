@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pushpraj Singh Chauhan</h1>
 <h3 align="center">A passionate Full Stack Java Developer from India</h3>
 
-- 🌱 I’m currently learning **Spring**
+- 🌱 I’m currently learning **Spring,React JS**
 
 - 👨‍💻 All of my projects are available at [github.com/PushprajSChauhan/pscportfolio.github.io.git](github.com/PushprajSChauhan/pscportfolio.github.io.git)
 
