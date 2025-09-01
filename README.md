@@ -3,8 +3,7 @@
 
 - 🌱 I’m currently learning **Spring,React JS**
 
-- 👨‍💻 All of my projects are available at [github.com/PushprajSChauhan/pscportfolio.github.io.git](github.com/PushprajSChauhan/pscportfolio.github.io.git)
-
+- 👨‍💻 All of my projects are available at [github.com/PushprajSChauhan/pscportfolio.github.io.git](https://pushprajschauhan.github.io/my-portfolio-website/)
 - 💬 Ask me about **JSE,HTML,CSS,Git,JS,JDBC,JEE,DSA**
 
 - 📫 How to reach me **chauhanpushprajsingh003@gmail.com**
