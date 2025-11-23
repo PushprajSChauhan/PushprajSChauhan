@@ -3,12 +3,12 @@
 
 - 🌱 I’m currently learning **Spring,React JS**
 
-- 👨‍💻 All of my projects are available at [github.com/PushprajSChauhan/pscportfolio.github.io.git](https://pushprajschauhan.github.io/my-portfolio-website/)
+- 👨‍💻 All of my projects are available at [Pushpraj Singh Chauhan - Github](https://pushprajschauhan.github.io/my-portfolio-website/)
 - 💬 Ask me about **JSE,HTML,CSS,Git,JS,JDBC,JEE,DSA**
 
 - 📫 How to reach me **chauhanpushprajsingh003@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1qlBbxlnNK5RoyG2KRW5U0THuDblkIPrM/view?usp=drive_link](https://drive.google.com/file/d/1qlBbxlnNK5RoyG2KRW5U0THuDblkIPrM/view?usp=drive_link)
+- 📄 Know about my experiences [Pushpraj Singh Chauhan - Resume](https://drive.google.com/file/d/1qlBbxlnNK5RoyG2KRW5U0THuDblkIPrM/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
